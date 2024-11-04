@@ -29,6 +29,10 @@
     {
       "name": "Marketers",
       "url": "api-reference"
+    },
+    {
+      "name" : "Integrations",
+      "url" : "api-reference"
     }
   ],
   "navigation": [
