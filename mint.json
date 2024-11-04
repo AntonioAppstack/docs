@@ -23,12 +23,12 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://console.app-stack.tech"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Marketers",
+      "url": "marketers"
     }
   ],
   "anchors": [
